@@ -1,7 +1,7 @@
 # Branching principle
 
 Complete_pipeline\
-├── app\
+── app\
    └── folder\
        └── Downscale.py\
 └── app2\
