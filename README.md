@@ -1,7 +1,5 @@
 # Branching principle
 
-1: application
-1.1: Downscale
-1.1.1: ATS
-1.1.1.1: CNN
-1.1.1.1.1: Score
+b = branch
+b1. Complete_pipeline <- b2. Downscale <- b3. ATS <- b4. CNN <- b5. Score
+
