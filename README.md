@@ -1,9 +1,7 @@
-# Branching
+# Branching principle
 
-application
-├── app
-│   └── folder
-│       └── file.py
-└── app2
-    └── some_folder
-        └── some_file.py
+1: application
+1.1: Downscale
+1.1.1: ATS
+1.1.1.1: CNN
+1.1.1.1.1: Score
